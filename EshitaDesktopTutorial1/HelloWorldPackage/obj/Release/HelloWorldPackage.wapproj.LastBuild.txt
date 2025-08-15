@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\HelloWorldPackage\Images\SplashScreen.scale-200.png
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\HelloWorldPackage\Images\LockScreenLogo.scale-200.png
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\HelloWorldPackage\Images\Square150x150Logo.scale-200.png
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\HelloWorldPackage\Images\Square44x44Logo.scale-200.png
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\HelloWorldPackage\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\HelloWorldPackage\Images\StoreLogo.png
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\HelloWorldPackage\Images\Wide310x150Logo.scale-200.png
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\HelloWorldPackage\bin\AnyCPU\Release\resources.pri
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\EshitaDesktopTutorial1\bin\Release\EshitaDesktopTutorial1.exe
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\EshitaDesktopTutorial1\bin\Release\EshitaDesktopTutorial1.exe.config
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\EshitaDesktopTutorial1\bin\Release\EshitaDesktopTutorial1.pdb

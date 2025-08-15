@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\SetupProject1\bin\Release\SetupProject1.msi
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\SetupProject1\bin\Release\SetupProject1.wixpdb
+obj\Release\Product.wixobj
+obj\Release\SetupProject1.wixproj.BindContentsFileListnull.txt
+obj\Release\SetupProject1.wixproj.BindOutputsFileListnull.txt
+obj\Release\SetupProject1.wixproj.BindBuiltOutputsFileListnull.txt

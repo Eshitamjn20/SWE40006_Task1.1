@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\EshitaDesktopTutorial1\bin\Release\EshitaDesktopTutorial1.exe.config
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\EshitaDesktopTutorial1\bin\Release\EshitaDesktopTutorial1.exe
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\EshitaDesktopTutorial1\bin\Release\EshitaDesktopTutorial1.pdb
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\EshitaDesktopTutorial1\obj\Release\EshitaDesktopTutorial1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\EshitaDesktopTutorial1\obj\Release\EshitaDesktopTutorial1.Properties.Resources.resources
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\EshitaDesktopTutorial1\obj\Release\EshitaDesktopTutorial1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\EshitaDesktopTutorial1\obj\Release\EshitaDesktopTutorial1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\EshitaDesktopTutorial1\obj\Release\EshitaDesktopTutorial1.exe
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\EshitaDesktopTutorial1\obj\Release\EshitaDesktopTutorial1.pdb
+C:\Users\DELL\source\repos\EshitaDesktopTutorial1\EshitaDesktopTutorial1\obj\Release\EshitaDesktopTutorial1.exe.config

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\EshitaDesktopTutorial1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCBD3A6-0048-49E0-B40F-34A55E30361E}|SetupProject1\\SetupProject1.wixproj|C:\\Users\\DELL\\source\\repos\\EshitaDesktopTutorial1\\SetupProject1\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6FCBD3A6-0048-49E0-B40F-34A55E30361E}|SetupProject1\\SetupProject1.wixproj|solutionrelative:SetupProject1\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B798175-DF5F-417D-8870-7DF1F06C2592}|HelloWorldPackage\\HelloWorldPackage.wapproj|c:\\users\\dell\\source\\repos\\eshitadesktoptutorial1\\helloworldpackage\\helloworldpackage.wapproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B798175-DF5F-417D-8870-7DF1F06C2592}|HelloWorldPackage\\HelloWorldPackage.wapproj|solutionrelative:helloworldpackage\\helloworldpackage.wapproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7168B9-99D6-469B-8CD7-EA24543520D0}|EshitaDesktopTutorial1\\EshitaDesktopTutorial1.csproj|C:\\Users\\DELL\\source\\repos\\EshitaDesktopTutorial1\\eshitadesktoptutorial1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7168B9-99D6-469B-8CD7-EA24543520D0}|EshitaDesktopTutorial1\\EshitaDesktopTutorial1.csproj|solutionrelative:eshitadesktoptutorial1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7168B9-99D6-469B-8CD7-EA24543520D0}|EshitaDesktopTutorial1\\EshitaDesktopTutorial1.csproj|C:\\Users\\DELL\\source\\repos\\EshitaDesktopTutorial1\\eshitadesktoptutorial1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7168B9-99D6-469B-8CD7-EA24543520D0}|EshitaDesktopTutorial1\\EshitaDesktopTutorial1.csproj|solutionrelative:eshitadesktoptutorial1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7168B9-99D6-469B-8CD7-EA24543520D0}|EshitaDesktopTutorial1\\EshitaDesktopTutorial1.csproj|C:\\Users\\DELL\\source\\repos\\EshitaDesktopTutorial1\\eshitadesktoptutorial1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB7168B9-99D6-469B-8CD7-EA24543520D0}|EshitaDesktopTutorial1\\EshitaDesktopTutorial1.csproj|solutionrelative:eshitadesktoptutorial1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorldPackage.wapproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EshitaDesktopTutorial1\\HelloWorldPackage\\HelloWorldPackage.wapproj",
+              "RelativeDocumentMoniker": "HelloWorldPackage\\HelloWorldPackage.wapproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EshitaDesktopTutorial1\\HelloWorldPackage\\HelloWorldPackage.wapproj",
+              "RelativeToolTip": "HelloWorldPackage\\HelloWorldPackage.wapproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-12T11:41:58.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.wxs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EshitaDesktopTutorial1\\SetupProject1\\Product.wxs",
+              "RelativeDocumentMoniker": "SetupProject1\\Product.wxs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EshitaDesktopTutorial1\\SetupProject1\\Product.wxs",
+              "RelativeToolTip": "SetupProject1\\Product.wxs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAABwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-09T01:33:47.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EshitaDesktopTutorial1\\EshitaDesktopTutorial1\\Form1.cs",
+              "RelativeDocumentMoniker": "EshitaDesktopTutorial1\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EshitaDesktopTutorial1\\EshitaDesktopTutorial1\\Form1.cs",
+              "RelativeToolTip": "EshitaDesktopTutorial1\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T06:27:55.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EshitaDesktopTutorial1\\EshitaDesktopTutorial1\\Program.cs",
+              "RelativeDocumentMoniker": "EshitaDesktopTutorial1\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EshitaDesktopTutorial1\\EshitaDesktopTutorial1\\Program.cs",
+              "RelativeToolTip": "EshitaDesktopTutorial1\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T06:24:54.139Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EshitaDesktopTutorial1\\EshitaDesktopTutorial1\\Form1.cs",
+              "RelativeDocumentMoniker": "EshitaDesktopTutorial1\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EshitaDesktopTutorial1\\EshitaDesktopTutorial1\\Form1.cs [Design]",
+              "RelativeToolTip": "EshitaDesktopTutorial1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T01:31:18.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

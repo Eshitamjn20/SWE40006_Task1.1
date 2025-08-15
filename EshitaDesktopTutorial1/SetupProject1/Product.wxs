@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="Eshita Desktop App" Language="1033" Version="1.0.0.0" Manufacturer="Eshita Mahajan" UpgradeCode="6fc383d3-342e-4d34-920f-bf1035908ca9">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="Eshita Desktop App" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="Eshita Desktop App" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<Component Id="EshitaDesktopTutorial1.exe" Guid="E9F29CD0-9251-4A43-ABBF-C09767976FFE">
+				<File Id="EshitaDesktopTutorial1.exe"
+					  Name="EshitaDesktopTutorial1.exe"
+					  Source="$(var.EshitaDesktopTutorial1.TargetDir)EshitaDesktopTutorial1.exe" >
+				</File>
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>
