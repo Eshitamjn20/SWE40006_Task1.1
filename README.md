@@ -58,7 +58,7 @@ HelloWorldSolution/                 # Main Visual Studio solution folder
             └── HelloWorldPackage_1.0.0.0_x64.cer
 
 
----
+```
 ## ▶️ How to Build and Run  
 
 ### 1. Build the Hello World Application  
