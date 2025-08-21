@@ -28,36 +28,37 @@ Before starting the project, the environment was configured with the following t
 This setup ensured that both **MSI installers** and **UWP MSIX packages** could be created.
 
 ---
-
 ## 📂 Repository Structure  
 
 The solution explorer for this repository consists of three main parts:  
-HelloWorldSolution/ # Main Visual Studio solution folder
+
+```text
+HelloWorldSolution/                 # Main Visual Studio solution folder
 │
-├── EshitaDesktopTutorial1/ # Main Windows Forms "Hello World" application
-│ ├── Program.cs # Entry point for the application
-│ ├── Form1.cs # Contains code to display "Hello World" message
-│ ├── Form1.Designer.cs # Auto-generated designer code for Form1 UI
-│ ├── App.config # App configuration file
-│ └── bin/Release/ # Compiled output (.exe, .dll, .pdb)
-│ └── EshitaDesktopTutorial1.exe
+├── EshitaDesktopTutorial1/         # Main Windows Forms "Hello World" application
+│   ├── Program.cs                  # Entry point for the application
+│   ├── Form1.cs                    # Contains code to display "Hello World" message
+│   ├── Form1.Designer.cs           # Auto-generated designer code for Form1 UI
+│   ├── App.config                  # App configuration file
+│   └── bin/Release/                # Compiled output (.exe, .dll, .pdb)
+│       └── EshitaDesktopTutorial1.exe
 │
-├── SetupProject1/ # WiX Setup project for MSI packaging
-│ ├── Product.wxs # Installer configuration (GUIDs, components, directories)
-│ ├── SetupProject1.wixproj # WiX project file
-│ └── bin/Release/ # Output MSI installer
-│ └── SetupProject1.msi
+├── SetupProject1/                  # WiX Setup project for MSI packaging
+│   ├── Product.wxs                 # Installer configuration (GUIDs, components, directories)
+│   ├── SetupProject1.wixproj       # WiX project file
+│   └── bin/Release/                # Output MSI installer
+│       └── SetupProject1.msi
 │
-└── HelloWorldPackage/ # UWP Packaging project for MSIX sideloading
-├── Package.appxmanifest # Defines app identity, visual assets, certificate info
-├── HelloWorldPackage.wapproj # Windows Application Packaging project file
-└── AppPackages/ # Generated MSIX bundle + certificate
-└── HelloWorldPackage_1.0.0.0_Test/
-├── HelloWorldPackage_1.0.0.0_x64.msixbundle
-└── HelloWorldPackage_1.0.0.0_x64.cer
+└── HelloWorldPackage/              # UWP Packaging project for MSIX sideloading
+    ├── Package.appxmanifest        # Defines app identity, visual assets, certificate info
+    ├── HelloWorldPackage.wapproj   # Windows Application Packaging project file
+    └── AppPackages/                # Generated MSIX bundle + certificate
+        └── HelloWorldPackage_1.0.0.0_Test/
+            ├── HelloWorldPackage_1.0.0.0_x64.msixbundle
+            └── HelloWorldPackage_1.0.0.0_x64.cer
+
 
 ---
-
 ## ▶️ How to Build and Run  
 
 ### 1. Build the Hello World Application  
